@@ -1,0 +1,28 @@
+nav {
+    width: 400px;
+    border: solid 1px black;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    background-color: lightgray;
+}
+
+
+.menu_block {
+
+    display: inline-block;
+    height: 20px;
+    padding: 10px;
+    border: solid 1px black;
+    border-radius: 5px;
+    background-color: black;
+    text-shadow: darkgray;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    opacity: 0.5;
+    box-shadow: darkgray 2px;
+
+}
+
